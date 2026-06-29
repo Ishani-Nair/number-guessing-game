@@ -2,7 +2,7 @@
 As the name suggests, you are required to guess the number chosen by the computer.
 
 ## Live Demo
-[Play Here](https://giornogiovanna12345.github.io/number-guessing-game/)
+[Play Here](https://ishani-nair.github.io/number-guessing-game/)
 
 Two versions of the game are given.
 
